@@ -1,7 +1,6 @@
 
 
 #include <iostream>
-#include <map>
 #include "PropertyExpression.h"
 #include "DoubleProperty.h"
 
